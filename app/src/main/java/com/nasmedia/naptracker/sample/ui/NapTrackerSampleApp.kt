@@ -86,8 +86,7 @@ private fun QuickstartScreen(modifier: Modifier = Modifier) {
         item {
             StepCard(
                 title = "1) Verify SDK initialization",
-                description = "The SDK initializes in Application.onCreate() (NapTrackerSampleApplication). " +
-                    "Open Logcat and filter by \"NapTracker\" to see SDK logs.",
+                description = "The SDK initializes in Application.onCreate() (NapTrackerSampleApplication). ",
             )
         }
 
