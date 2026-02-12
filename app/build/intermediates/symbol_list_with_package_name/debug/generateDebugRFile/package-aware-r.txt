@@ -1,0 +1,5 @@
+com.nasmedia.naptracker.sample
+drawable ic_launcher
+string app_name
+string title_detail
+style Theme_NapTrackerSample
