@@ -28,7 +28,7 @@ NAP Tracker SDK를 **앱에 연동하고 동작을 빠르게 확인**할 수 있
 - 자동 `screen_view`: `DetailActivity` 열기
 - UI Logs: 화면에서 수행한 호출을 간단히 표시
 
-## SDK 의존성(배포/로컬 모두 지원)
+## SDK 의존성(배포 지원)
 
 샘플 앱은 기본적으로 Maven Central에 배포된 SDK를 사용합니다.
 
